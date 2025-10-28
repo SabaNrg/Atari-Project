@@ -16,7 +16,8 @@ cmake_uninstall.cmake
 # =====================
 # Python build artifacts
 # =====================
-*.egg-info/
+ale_python_interface/
+ale_python_interface.egg-info/
 __pycache__/
 *.pyc
 *.pyo
