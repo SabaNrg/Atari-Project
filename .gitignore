@@ -42,3 +42,6 @@ ROMS/
 # =====================
 *.zip
 *.csv
+
+# Ignore compiled paper outputs
+paper/*.pdf
