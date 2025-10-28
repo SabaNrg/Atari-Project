@@ -1,7 +1,8 @@
-# build / cmake
+# build / cmake outputs
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
+build/
 *.o
 *.so
 *.a
@@ -14,7 +15,10 @@ __pycache__/
 .venv/
 .env/
 
-# OS/editor
-.DS_Store
+# IDE/OS
 .vscode/
+.DS_Store
+
+# DO NOT publish ROMs
+ROMS/
 
